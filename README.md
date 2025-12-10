@@ -9,7 +9,7 @@ A powerful Chrome Extension that leverages AI to instantly generate n8n workflow
 Workflow AI Generator is a free, open-source Chrome Extension that bridges the gap between natural language and n8n's JSON configuration format. Whether you're building complex workflows or crafting individual nodes, this extension accelerates your development process by harnessing the power of leading AI models.
 
 ### Key Capabilities
-- **Multi-AI Support**: Choose from OpenAI GPT, Google Gemini, Anthropic Claude, Mistral AI, OpenRouter, Groq, or x.ai (Grok)
+- **Multi-AI Support**: Choose from OpenAI GPT, Your local Large Language Models on your machine, Google Gemini, Anthropic Claude, Deepseek, Mistral AI, OpenRouter, Groq, or x.ai (Grok)
 - **Bring Your Own Keys**: Use your existing API credits—no subscription fees for the extension
 - **Secure & Private**: All API keys stored locally in your browser; never shared with third parties
 - **Instant Generation**: Convert natural language descriptions into valid n8n JSON in seconds
@@ -24,6 +24,8 @@ Workflow AI Generator is a free, open-source Chrome Extension that bridges the g
 
 🔑 **Multiple AI Providers**
 - OpenAI (GPT-4, GPT-4o-mini)
+- Local llms by Ollama
+- Deepseek
 - Google Gemini (Latest models)
 - Anthropic Claude (Claude 3.5 Sonnet)
 - Mistral AI
@@ -307,6 +309,7 @@ See the [LICENSE](LICENSE) file for full details.
 **Happy workflow building! 🚀**
 
 Start generating n8n configurations instantly. Focus on your logic, let AI handle the JSON.
+
 
 
 
