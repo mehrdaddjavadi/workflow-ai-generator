@@ -221,6 +221,8 @@ Zero extension fees. Pay only for AI model usage through your provider's account
 | Mistral | Mistral-7B, Mistral-Large | No | Fast inference |
 | OpenRouter | 100+ Models | Varies | Model variety, comparison testing |
 | Groq | LLaMA 2, Mixtral | Limited | Ultra-fast API responses |
+| Local LLM | All models on ollama | Yes | Ultra-fast API responses |
+| Deepseek | Chat model and reseaning model | No | Ultra-fast API responses |
 | x.ai Grok | Grok-1, Grok-2 | No | Experimental, high-performance |
 
 ## Troubleshooting
@@ -304,6 +306,7 @@ See the [LICENSE](LICENSE) file for full details.
 **Happy workflow building! 🚀**
 
 Start generating n8n configurations instantly. Focus on your logic, let AI handle the JSON.
+
 
 
 
