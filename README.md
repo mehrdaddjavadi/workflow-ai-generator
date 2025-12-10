@@ -122,9 +122,22 @@ Zero extension fees. Pay only for AI model usage through your provider's account
    - Save settings
    - Select Claude model
 
+   **DeepSeek provides both cloud API access and local runnable models (e.g., via Ollama or custom backends)**
+  - Cloud API Setup
+      Get your API key:
+      https://platform.deepseek.com
+      Paste the key into the DeepSeek field. 
+      Select a model such as:
+      deepseek-chat
+      deepseek-reasoner
+
+   **Local Machine LLMs**
+      -You can run fully local models without any cloud API. This extension supports Ollama and all of models in local engines.
    **Other Providers**
    - Similar process for Mistral, OpenRouter, Groq, x.ai
    - Refer to provider documentation for API key generation
+   DeepSeek (Cloud or Local Variant)
+   
 
 4. **Verify Connection** → If valid, models will auto-populate in the dropdown
 
@@ -291,5 +304,6 @@ See the [LICENSE](LICENSE) file for full details.
 **Happy workflow building! 🚀**
 
 Start generating n8n configurations instantly. Focus on your logic, let AI handle the JSON.
+
 
 
