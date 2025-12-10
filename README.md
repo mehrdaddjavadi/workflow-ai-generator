@@ -297,6 +297,7 @@ See the [LICENSE](LICENSE) file for full details.
 
 **Created by**: Mehrdad Javadi  
 **GitHub**: [github.com/mehrdaddjavadi](https://github.com/mehrdaddjavadi)
+**Email**:mehrdaddjavadi@gmail.com
 
 **Built with**: Modern JavaScript, Chrome Extension APIs, and AI APIs  
 **Inspired by**: The n8n community and AI enthusiasts worldwide
@@ -306,6 +307,7 @@ See the [LICENSE](LICENSE) file for full details.
 **Happy workflow building! 🚀**
 
 Start generating n8n configurations instantly. Focus on your logic, let AI handle the JSON.
+
 
 
 
